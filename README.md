@@ -1,5 +1,6 @@
 # Office Bakery: Multi-threaded Synchronization
 > cake
+
 This repo is the demon of a multi-threaded sync problem simulating an office bakery with limited resources. We have mutex locks, condition variables, and semaphores to coordinate customer flow and chef operations while enforcing strict capacity and ordering constraints.
 
 Problem constraints
