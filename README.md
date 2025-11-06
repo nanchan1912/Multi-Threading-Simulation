@@ -54,4 +54,5 @@ Protocol and behavior summary
 - **Semaphores**: enforce resource limits (4 ovens, 1 cash register), implement FIFO queues
 
 > here is a list of my favorite cake flavours: chocolate, black forest, blueberry, cheescake, pineapple
+
 > here are some cakes i think are overrated: strawberry, mango, butterscotch, white forest
